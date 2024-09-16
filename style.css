@@ -13,3 +13,7 @@ background-color: blue;
 display: flex;
 flex-direction: row;
 }
+
+.cont{
+    background-color: rgb(255, 0, 81);
+    }
