@@ -1,26 +1,27 @@
-.container{
+.container {
+    width: 50%;
+    height: 400px;
 
-margin: 2px solid red;
-background-color: aqua;
-display: flex;
-flex-direction: row;
-width: 50%;
-height: 400px;
-align-items: center;
-justify-content: space-between;
+    margin: 2px solid red;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: space-between;
 }
 
-.container1{
+.container1 {
 
-margin: 2px solid rgb(225, 255, 0);
-background-color: blue;
-display: flex;
-flex-direction: row;
-width: 50%;
-height: 400px;
+    margin: 2px solid rgb(225, 255, 0);
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 400px;
 
 }
 
-.cont{
+.cont {
     background-color: rgb(255, 0, 81);
-    }
+}
