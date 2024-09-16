@@ -4,6 +4,9 @@ margin: 2px solid red;
 background-color: aqua;
 display: flex;
 flex-direction: row;
+
+width: 50%;
+height: 200px;
 }
 
 .container1{
@@ -12,6 +15,8 @@ margin: 2px solid rgb(225, 255, 0);
 background-color: blue;
 display: flex;
 flex-direction: row;
+width: 50%;
+height: 200px;
 }
 
 .cont{
