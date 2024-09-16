@@ -4,9 +4,9 @@ margin: 2px solid red;
 background-color: aqua;
 display: flex;
 flex-direction: row;
-
 width: 50%;
-height: 200px;
+height: 400px;
+align-items: center;
 }
 
 .container1{
@@ -16,7 +16,8 @@ background-color: blue;
 display: flex;
 flex-direction: row;
 width: 50%;
-height: 200px;
+height: 400px;
+
 }
 
 .cont{
