@@ -11,12 +11,11 @@
 }
 
 .container1 {
-
+    width: 50%;
+    height: 400px;
     margin: 2px solid rgb(225, 255, 0);
     background-color: blue;
     text-align: center;
-    width: 50%;
-    height: 400px;
     display: flex;
     flex-direction: row;
     align-items: center;
